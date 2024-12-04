@@ -1,0 +1,2 @@
+# Catch-all Route in React Router Dom Not Working
+This repository demonstrates a common issue encountered when using catch-all routes (`/*`) in React Router Dom v6.  The catch-all route, intended to handle any unmatched routes, is failing to function correctly. This may happen when another route path overlaps or is too broad, thereby preventing the catch-all from being reached.
